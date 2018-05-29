@@ -2,4 +2,4 @@
 
 これは文献解析用のjupytenotebookです。
 
-This is a jupytenotebook for literature analysis.
+This is a jupyternotebook for literature analysis.
